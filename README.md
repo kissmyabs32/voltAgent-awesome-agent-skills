@@ -1515,6 +1515,15 @@ Official skills published by Cypress to help create, maintain, understand, and f
 ### Community Skills
 
 <details>
+<summary><h3 style="display:inline">Staffing &amp; Events</h3></summary>
+
+- **[kissmyabs32/tempguru-event-staffing-ordering](https://github.com/kissmyabs32/tempguru-agent-skills)** - Order W-2 compliant temporary event staff for conventions, trade shows, festivals, concerts, sporting events, and brand activations across 300+ US/CA markets. Live MCP lookups for city coverage, roles, rates, availability, and state-level compliance.
+- **[kissmyabs32/tempguru-event-staffing-compliance](https://github.com/kissmyabs32/tempguru-agent-skills)** - Assess worker classification and compliance risk for event staffing: W-2 vs 1099, joint-employer liability, COI requirements, and state-specific wage/hour rules.
+
+</details>
+
+
+<details>
 <summary><h3 style="display:inline">Vector Databases</h3></summary>
 
 - **[qdrant/skills](https://github.com/qdrant/skills)** - Agent skills for Qdrant vector search, covering scaling, performance optimization, search quality, monitoring, deployment, model migration, version upgrades, and SDK usage across Python, TypeScript, Rust, Go, .NET, and Java
